@@ -1,0 +1,20 @@
+body {
+	background:black;
+	padding:15px;
+}
+
+body li {
+	list-style:none;
+	float:left;
+	padding:15px;
+	border:solid 10px silver;
+	font-family: arial, helvetica, sans-serif;
+	
+}
+
+body li a {
+	color:red;
+}
+p{
+	color:white;
+}
