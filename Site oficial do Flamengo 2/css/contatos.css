@@ -1,0 +1,21 @@
+.container label {
+	display: block;
+}
+.container input, .container textarea {
+	width: 20%;
+}
+footer {
+	display: flex;
+	/*background-color: gray41;*/
+	justify-content: space-between;
+	border-radius: 4px;
+	background-color: #000000;
+	padding: 8px;
+	color: white;
+}
+a {
+	color: white;
+}
+label {
+	font-family: A0065;
+}
